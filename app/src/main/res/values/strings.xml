@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Insta</string>
+    <string name="home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="explore">explore</string>
+    <string name="pluse">pluse</string>
+    <string name="heart">heart</string>
+    <string name="user">user</string>
+    <string name="instagram">Instagram</string>
+    <string name="yoour_story">Your Story</string>
+    <string name="pic1">Devid</string>
+    <string name="pic2">Nicole</string>
+    <string name="pic3">Leira</string>
+    <string name="pic4">Kevin</string>
+    <string name="pic5">Hritik Roshan</string>
+    <string name="pic6">Will Smith</string>
+    <string name="pic7">eminem</string>
+    <string name="pic8">Emelia Clarke</string>
+</resources>
